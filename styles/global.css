@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 32px;
+  color: blueviolet;
+  padding: 1rem 0.5rem;
+}
