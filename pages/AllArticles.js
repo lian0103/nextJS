@@ -1,6 +1,6 @@
 import useSwr from "swr";
 import aboutStyles from "../styles/about.module.css";
-import Link from "next/Link";
+import Link from "next/link";
 import { dataUri, fetcher } from "../utils/dataUtils";
 
 const AllArticles = () => {
