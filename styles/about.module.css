@@ -1,3 +1,22 @@
 .pItem {
   padding: 1rem 0.5rem;
 }
+
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.list h1 {
+  width: 100%;
+}
+
+.listItem {
+  flex-basis: 50%;
+  flex-grow: 1;
+}
+
+.listItem h2 {
+  cursor: pointer;
+}
